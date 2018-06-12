@@ -11,7 +11,7 @@ namespace AsyncReturnTypes.xUnit
 
         public AsyncReturnTypeManagerTest()
         {
-            _returnTypeMgr = new AsyncReturnTypeManager();
+            _returnTypeMgr = new AsyncReturnTypeManager(); 
         }
         
         [Fact]
